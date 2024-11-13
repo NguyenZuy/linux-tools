@@ -11,5 +11,5 @@ This repository contains a set of tools designed particularly for game developme
 
 ### [2. Convert all image to .png](./convert_all_to_png.sh)
 - This tool converts all images in a specified directory from various formats (e.g., .jpg, .webp, etc.) to the .png format.
-    - `./convert_to_png.sh /path/to/dir`
+    - `./convert_all_to_png.sh /path/to/dir`
     ---
