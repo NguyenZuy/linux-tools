@@ -44,7 +44,7 @@ chmod +x <script_file.sh>
 
 --------------------------
 
-💡 Tips & Best Practices
+# 💡 Tips & Best Practices
 - **Backup First**: Always back up your assets before running automated scripts.
 - **Test in a Small Directory**: Run the scripts in a test directory to ensure they behave as expected.
 - **Use Clear Prefixes**: When renaming images, choose meaningful prefixes for better organization.
