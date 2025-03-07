@@ -6,7 +6,7 @@ Welcome to this repository! Here, you’ll find a collection of tools crafted sp
 
 # 📋 List of Tools
 
-### [1. 🔄 Auto Rename Images (Sprites)](./auto_rename.sh)
+### [1. 🔄 Auto Rename Images (Sprites)](./auto_rename_unity.sh)
 - Easily rename multiple sprite image files and automatically update their corresponding .meta files to keep Unity references intact. This tool is particularly useful for maintaining organized and structured asset directories.
 - 🚀 Usage:
   ``` bash
