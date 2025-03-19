@@ -20,7 +20,7 @@ Welcome to this repository! Here, you’ll find a collection of tools crafted sp
     ./convert_all_to_png.sh /path/to/dir
     ```
     
-### [3. 🖼️ Convert all image to .png with name prefix](./convert_all_to_png.sh)
+### [3. 🔄 Convert all image to .png with name prefix](./convert_all_to_png.sh)
 - Quickly convert all images within a specified directory from various formats (like .jpg, .webp, etc.) to .png and format the name with name prefix
 - 🚀 Usage:
     ``` bash
